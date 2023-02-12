@@ -1,4 +1,4 @@
-# Kel02_TugasAkhir_TPDM-3
+# Kel02_TugasBesar_TPDM-3
 1. 10519703 Tia Eka Safitri
 2. 10519117 Vania Shinta Puspaningtyas
 3. 10519115 Fadilah Wulan Safitri
